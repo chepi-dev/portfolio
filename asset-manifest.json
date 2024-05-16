@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/protfolio/static/css/main.a1e7da47.css",
-    "main.js": "/protfolio/static/js/main.48b7aa8f.js",
-    "static/js/453.65f1a106.chunk.js": "/protfolio/static/js/453.65f1a106.chunk.js",
-    "static/media/Geex.png": "/protfolio/static/media/Geex.68524afc641c2a22e45c.png",
-    "static/media/Gbit.png": "/protfolio/static/media/Gbit.178ae0cf6af3f7788686.png",
-    "static/media/Profl.png": "/protfolio/static/media/Profl.29281f374994be554581.png",
-    "index.html": "/protfolio/index.html",
-    "main.a1e7da47.css.map": "/protfolio/static/css/main.a1e7da47.css.map",
-    "main.48b7aa8f.js.map": "/protfolio/static/js/main.48b7aa8f.js.map",
-    "453.65f1a106.chunk.js.map": "/protfolio/static/js/453.65f1a106.chunk.js.map"
+    "main.css": "/protofolio/static/css/main.a1e7da47.css",
+    "main.js": "/protofolio/static/js/main.a3a56805.js",
+    "static/js/453.65f1a106.chunk.js": "/protofolio/static/js/453.65f1a106.chunk.js",
+    "static/media/Geex.png": "/protofolio/static/media/Geex.68524afc641c2a22e45c.png",
+    "static/media/Gbit.png": "/protofolio/static/media/Gbit.178ae0cf6af3f7788686.png",
+    "static/media/Profl.png": "/protofolio/static/media/Profl.29281f374994be554581.png",
+    "index.html": "/protofolio/index.html",
+    "main.a1e7da47.css.map": "/protofolio/static/css/main.a1e7da47.css.map",
+    "main.a3a56805.js.map": "/protofolio/static/js/main.a3a56805.js.map",
+    "453.65f1a106.chunk.js.map": "/protofolio/static/js/453.65f1a106.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a1e7da47.css",
-    "static/js/main.48b7aa8f.js"
+    "static/js/main.a3a56805.js"
   ]
 }
